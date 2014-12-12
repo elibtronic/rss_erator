@@ -11,5 +11,6 @@ Microkeyboard accessory that will help you cycle through your RSS feeds, view th
 - ctrl + w to close that new window you just opened
 - led to make it awesome
 
+Works with the [Feedly.com](Feedly.com) interface
 My Submission for ```#BrockHackFest```
 
